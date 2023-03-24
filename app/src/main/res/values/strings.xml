@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyProjectBook</string>
+
+    <string name="f">fill_parent</string>
+    <string name="flipBook">Flip Book</string>
+    <string name="web_view">Web View</string>
+</resources>
